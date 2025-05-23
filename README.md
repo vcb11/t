@@ -9,3 +9,4 @@ Have fun!
 notes: slopec.html is slope compressed. 
 slope.html and slopec.html are relatively the same size. 
 id.net pop-up is still there (unable to remove it or it will break the entire game :( )
+using: .json, .css, and .html
