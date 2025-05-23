@@ -1,9 +1,9 @@
-An optimized version of Slope by Y8 at 1.36KB! 
-Reduced from 7.6 KB to 1.36 KB (or in bytes, 7,779 bytes to 1,399 bytes for slopec.html) 
+An optimized version of Slope by Y8 at 1.33KB! 
+Reduced from 7.6 KB to 1.36 KB (or in bytes, 7,779 bytes to 1,367 bytes for slopec.html) 
 Code reduction by jmtran1 Code from scheng123321 copied to vcb11 to optimize further. 
 Code reduced is just unneccesary stuff added.
-Made on 5/22/2025! 
-Last updated: 5/22/2025
+Created on 5/22/2025! 
+Last updated: 5/32/2025
 Have fun!
 
 
